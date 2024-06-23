@@ -1,0 +1,15 @@
+.nav_container {
+  width: 60%;
+  padding: 1rem 0;
+  margin: 5rem auto;
+}
+.nav_head {
+  text-align: center;
+  color: white;
+}
+
+@media (max-width: 420px) {
+  .nav_container {
+    margin: 2.5rem auto;
+  }
+}
